@@ -8,7 +8,4 @@ jobs:
     script:
     - npm run build
     - npm run lint
-    - npm run test
-  - stage: deploy
-    if: branch = main
-    script: npm run deploy
+    - npm run format
