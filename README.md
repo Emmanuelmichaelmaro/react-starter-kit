@@ -8,12 +8,12 @@
 
   <br /><br />
   
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
   [![Builds][builds-shield]][builds-url]
-  [![Issues][issues-shield]][issues-url]
-  [![MIT License][license-shield]][license-url]
   [![Releases][downloads-shield]][downloads-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Contributors][contributors-shield]][contributors-url]
+  [![MIT License][license-shield]][license-url]
+  [![Issues][issues-shield]][issues-url]
 
   <h3 align="center">Best-README-Template</h3>
   
